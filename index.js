@@ -24,7 +24,7 @@ function updateTime() {
 
     let days = ["Sunday" , "Monday" , "Tuesday" , "Wednessday", "Thursday", "Friday", "Saturday"]
 
-    let month = ["","Jan","Feb","Mar","Apr","May","June","Jul","Aug","Sep","Oct","Nov","Dec"]
+    let month = ["Jan","Feb","Mar","Apr","May","June","Jul","Aug","Sep","Oct","Nov","Dec"]
 
     let currentDay = time.getDay();
     let currentDate = time.getDate();
